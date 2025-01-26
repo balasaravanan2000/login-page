@@ -1,0 +1,41 @@
+body{
+    margin-top: 75px;
+    font-family: sans-serif;
+    color: rgb(31, 31, 253);
+    text-align: center;
+    background-color: rgb(236, 234, 230);
+}
+
+
+   
+
+
+
+input{
+    width: 230px;
+    padding: 15px;
+    border-radius: 6px;
+    border-color: rgb(102, 97, 97);
+}
+div{
+    padding: 35px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-top: -15px;
+   
+}
+h3{
+    color: rgb(54, 54, 54);
+}
+input[type=submit]
+{
+    background-color: rgb(68, 68, 255);
+    color: aliceblue;
+    width: 270px;
+    padding: 15px;
+    border-radius: 6px;
+    border-color: rgb(20, 20, 20);
+} 
+a:link{
+    text-decoration: none;
+}
